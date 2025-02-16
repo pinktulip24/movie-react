@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/movie-react/static/css/main.ff607ade.css",
-    "main.js": "/movie-react/static/js/main.bdb1785e.js",
+    "main.js": "/movie-react/static/js/main.9632e462.js",
     "static/js/493.3358c0b9.chunk.js": "/movie-react/static/js/493.3358c0b9.chunk.js",
     "static/js/326.50aaab1a.chunk.js": "/movie-react/static/js/326.50aaab1a.chunk.js",
     "static/css/416.3fd56f11.chunk.css": "/movie-react/static/css/416.3fd56f11.chunk.css",
     "static/js/416.b828142b.chunk.js": "/movie-react/static/js/416.b828142b.chunk.js",
     "static/css/76.323bd350.chunk.css": "/movie-react/static/css/76.323bd350.chunk.css",
-    "static/js/76.593d0c51.chunk.js": "/movie-react/static/js/76.593d0c51.chunk.js",
+    "static/js/76.de9fca10.chunk.js": "/movie-react/static/js/76.de9fca10.chunk.js",
     "static/js/681.ce9441ff.chunk.js": "/movie-react/static/js/681.ce9441ff.chunk.js",
     "static/js/686.fcaf303a.chunk.js": "/movie-react/static/js/686.fcaf303a.chunk.js",
     "index.html": "/movie-react/index.html",
     "main.ff607ade.css.map": "/movie-react/static/css/main.ff607ade.css.map",
-    "main.bdb1785e.js.map": "/movie-react/static/js/main.bdb1785e.js.map",
+    "main.9632e462.js.map": "/movie-react/static/js/main.9632e462.js.map",
     "493.3358c0b9.chunk.js.map": "/movie-react/static/js/493.3358c0b9.chunk.js.map",
     "326.50aaab1a.chunk.js.map": "/movie-react/static/js/326.50aaab1a.chunk.js.map",
     "416.3fd56f11.chunk.css.map": "/movie-react/static/css/416.3fd56f11.chunk.css.map",
     "416.b828142b.chunk.js.map": "/movie-react/static/js/416.b828142b.chunk.js.map",
     "76.323bd350.chunk.css.map": "/movie-react/static/css/76.323bd350.chunk.css.map",
-    "76.593d0c51.chunk.js.map": "/movie-react/static/js/76.593d0c51.chunk.js.map",
+    "76.de9fca10.chunk.js.map": "/movie-react/static/js/76.de9fca10.chunk.js.map",
     "681.ce9441ff.chunk.js.map": "/movie-react/static/js/681.ce9441ff.chunk.js.map",
     "686.fcaf303a.chunk.js.map": "/movie-react/static/js/686.fcaf303a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff607ade.css",
-    "static/js/main.bdb1785e.js"
+    "static/js/main.9632e462.js"
   ]
 }
