@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movie-react/static/css/main.ff607ade.css",
-    "main.js": "/movie-react/static/js/main.be51364a.js",
+    "main.js": "/movie-react/static/js/main.dbda919c.js",
     "static/js/493.3358c0b9.chunk.js": "/movie-react/static/js/493.3358c0b9.chunk.js",
     "static/js/326.50aaab1a.chunk.js": "/movie-react/static/js/326.50aaab1a.chunk.js",
     "static/css/416.3fd56f11.chunk.css": "/movie-react/static/css/416.3fd56f11.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/686.fcaf303a.chunk.js": "/movie-react/static/js/686.fcaf303a.chunk.js",
     "index.html": "/movie-react/index.html",
     "main.ff607ade.css.map": "/movie-react/static/css/main.ff607ade.css.map",
-    "main.be51364a.js.map": "/movie-react/static/js/main.be51364a.js.map",
+    "main.dbda919c.js.map": "/movie-react/static/js/main.dbda919c.js.map",
     "493.3358c0b9.chunk.js.map": "/movie-react/static/js/493.3358c0b9.chunk.js.map",
     "326.50aaab1a.chunk.js.map": "/movie-react/static/js/326.50aaab1a.chunk.js.map",
     "416.3fd56f11.chunk.css.map": "/movie-react/static/css/416.3fd56f11.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.ff607ade.css",
-    "static/js/main.be51364a.js"
+    "static/js/main.dbda919c.js"
   ]
 }
