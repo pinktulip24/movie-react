@@ -32,7 +32,7 @@ export const Header = () => {
           <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbar01">
-            <a className="navbar-brand d-none d-lg-block" href="/goit-react-hw-05-movies">
+            <a className="navbar-brand d-none d-lg-block" href="/movie-react">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 height="50px"
